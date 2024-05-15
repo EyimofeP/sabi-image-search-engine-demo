@@ -18,8 +18,8 @@ There are  3 models
 2. sabi_image_classifier.h5 - A pretrained MobileNetV2 model with no finetuning
 3. sabi_final_model.h5 - A pretrained MobileNetV2 model with fine tuning to reduce overfitting that occured in the past 2 models, this was the final model used for predictions
 
-
-##SABI IMAGE CLASSIFIER
+___
+## SABI IMAGE CLASSIFIER
 
 This model was trained on an existing pretrainer model. here is the link: https://www.kaggle.com/models/google/mobilenet-v2/tensorFlow2/130-224-classification/
 
